@@ -1,0 +1,4 @@
+secure-smtplib
+email.mime.multipart
+email.mime.text
+email.mime.base
