@@ -1,0 +1,10 @@
+# image-generator/requirements.txt
+
+# Library for image generation service
+image-generation-library
+
+# Other necessary libraries
+requests
+numpy
+PIL
+matplotlib
